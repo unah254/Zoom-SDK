@@ -21,7 +21,7 @@ export class ZoomComponent implements OnInit {
    meetingNumber = 123456789
    role = 0
    leaveUrl = 'http://localhost:4200'
-   userName = 'Sifuma'
+   userName = 'Unah'
    userEmail = ''
    passWord = ''
  
